@@ -1,0 +1,14 @@
+{
+  "id": "warden-battle",
+  "slug": "bitva-s-vardenom",
+  "title": "Битва с Варденом",
+  "date": "2026-11-27",
+  "category": "events",
+  "summary": "23 ноября 2026 года в мире YardCraft состоялась битва с Варденом.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "В мире YardCraft 23 ноября 2026 года состоялась битва с Варденом."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "yardcraft",
+    "name": "YardCraft",
+    "description": "Основная клиентская сборка для обычных компьютеров.",
+    "version": "2.0",
+    "minecraftVersion": "26.2",
+    "downloadUrl": "https://github.com/bobesmogh/YardCraft/releases/download/v2.0/Yardcraft_v2.0.zip",
+    "archive": [
+      {
+        "version": "1.1",
+        "minecraftVersion": "26.2",
+        "downloadUrl": "https://github.com/bobesmogh/YardCraft/releases/download/Client/Yardcraft_v.1.1.zip"
+      }
+    ]
+  },
+  {
+    "id": "yardcraft-potato",
+    "name": "YardCraft Potato",
+    "description": "Облегчённая клиентская сборка для слабых компьютеров.",
+    "version": "2.0",
+    "minecraftVersion": "26.2",
+    "downloadUrl": "https://github.com/bobesmogh/YardCraft/releases/download/v2.0/YardCraftpotato_v2.0.zip",
+    "archive": [
+      {
+        "version": "1.1",
+        "minecraftVersion": "26.2",
+        "downloadUrl": "https://github.com/bobesmogh/YardCraft/releases/download/lowClient/YardCraftpotato_v.1.1.zip"
+      }
+    ]
+  }
+]
